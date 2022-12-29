@@ -1,0 +1,32 @@
+{
+  "pagevisits": [
+    {
+      "pageName": "argon",
+      "visitors": 45454,
+      "uniqueUser": 340,
+      "bounceRate": 46.6
+    },
+    {
+      "pageName": "argon/index.html",
+      "visitors": 45454,
+      "uniqueUser": 340,
+      "bounceRate": 46.6
+    },
+    {
+      "pageName": "argon/chart.html",
+      "visitors": 45454,
+      "uniqueUser": 340,
+      "bounceRate": 46.6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
